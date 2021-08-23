@@ -6,7 +6,7 @@ ___
 
 - 🔭 I’m currently working on broadening my career with Microverse
 - 🌱 I’m currently learning Software Engineering in Adventist University of Central Africa
-- 📫 How to reach out to me: 
+- 📫 You can reach out to me by: 
 [![Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:kntwalijos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/karangwa)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/JosueNtwali)
