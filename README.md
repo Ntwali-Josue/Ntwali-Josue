@@ -16,4 +16,4 @@ ___
 |-|-|
 |[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=Ntwali-Josue&show_icons=true&theme=dark&hide_title=true)](https://github.com/Ntwali-Josue)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntwali-Josue&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Ntwali-Josue)
 ___
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=Ntwali-Josue&theme=react-dark&area=true) -->
+![](https://activity-graph.herokuapp.com/graph?username=Ntwali-Josue&theme=react-dark&area=true)
