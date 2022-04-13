@@ -1,7 +1,7 @@
 ### Hi, 👋I am KARANGWA Ntwali Josue
 ___
 ### About Me 👨‍💻
-I am an enthusiastic Software developer currently looking for a job, always striving to contribute to problem-solving activities using my programming skills. I enjoy being in a tech community, and also making our world a digitalized one. I am currently looking for more job opportunities.
+I am an enthusiastic Software developer currently looking for a job, always striving to contribute to problem-solving activities using my programming skills. I enjoy being in a tech community, and also making our world a digitalized one. I am currently looking for more remote job opportunities.
 ___
 
 - 🔭 I’m currently working on broadening my career with Microverse
