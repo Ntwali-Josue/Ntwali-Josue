@@ -4,8 +4,8 @@ ___
 I am an enthusiastic Software developer currently looking for a job, always striving to contribute to problem-solving activities using my programming skills. I enjoy being in a tech community, and also making our world a digitalized one. I am currently looking for more remote job opportunities.
 ___
 
-- 🔭 I’m currently working on broadening my career with Microverse
-- 🌱 I’m currently learning Software Engineering in Adventist University of Central Africa
+- 🔭 I’m currently working on a 3D based project.
+- 🌱 I’m also currently learning to be a DevOps Engineer with Google.
 - 📫 You can reach out to me by: 
 [![Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:kntwalijos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/karangwa)
