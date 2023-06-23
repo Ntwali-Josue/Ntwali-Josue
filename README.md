@@ -1,7 +1,7 @@
-### Hi, 👋I am KARANGWA Ntwali Josue
+### Hi, 👋I am Josue
 ___
 ### About Me 👨‍💻
-I am an enthusiastic Software developer , always striving to contribute to problem-solving activities using my programming skills. I enjoy being in a tech community, and also making our world a digitalized one.
+I am an enthusiastic Software developer, always striving to contribute to problem-solving activities using my programming skills. I enjoy being in a tech community and also making our world a digitalized one.
 ___
 
 - 📫 You can reach out to me by: 
@@ -9,8 +9,8 @@ ___
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/karangwa)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/JosueNtwali)
 [![Whatsapp](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=whatsapp&style=social)](https://api.whatsapp.com/send?phone=+250787413277&text=Hello%20Josh!%20%F0%9F%91%8B%F0%9F%8F%BB)
-[![AngelList](https://img.shields.io/badge/--angelist?label=AngeLlist&logo=AngelList&style=social)](https://angel.co/u/ntwali-josue)
 [![Portfolio](https://img.shields.io/badge/--globe?label=Portfolio&logo=Portfolio&style=social)](https://ntwalijosue.dev)
+<!-- [![AngelList](https://img.shields.io/badge/--angelist?label=AngeLlist&logo=AngelList&style=social)](https://angel.co/u/ntwali-josue) -->
 <!-- ___ -->
 
 <!-- |My github stats|My Top languages
