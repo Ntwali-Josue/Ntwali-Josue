@@ -1,4 +1,4 @@
-### Hi, 👋I am Josue
+### Hi👋🏼, I am Josue
 ___
 ### About Me 👨‍💻
 I am an enthusiastic Software developer, always striving to contribute to problem-solving activities using my programming skills. I enjoy being in a tech community and also making our world a digitalized one.
